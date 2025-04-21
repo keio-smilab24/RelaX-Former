@@ -15,9 +15,8 @@ The experiments involved the DSR to carry objects to specific receptacles based 
 
 ## Setup
 ```bash
-git clone https://github.com/keio-smilab23/switching_reverie_retrieval.git
-cd switching_reverie_retrieval
-git checkout yashima/main
+git clone git@github.com:keio-smilab24/RelaX-Former.git
+cd RelaX-Former
 ./scripts/build_docker.sh
 ```
 
