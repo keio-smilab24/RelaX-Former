@@ -15,8 +15,9 @@ The experiments involved the DSR to carry objects to specific receptacles based 
 
 ## Setup
 ```bash
-git clone https://github.com/keio-smilab24/RelaX-Former.git
-cd RelaX-Former
+git clone https://github.com/keio-smilab23/switching_reverie_retrieval.git
+cd switching_reverie_retrieval
+git checkout yashima/main
 ./scripts/build_docker.sh
 ```
 
@@ -151,4 +152,3 @@ Use this in case you do not have access to the visual extraction server.
 ## model checkpoint
 
 Model checkpoint is available [here](https://drive.google.com/file/d/1Qse4upeKwRDy3VPUkUo_q2q4VlQjA2Ya/view?usp=drive_link).
-
